@@ -1,0 +1,10 @@
+
+#loader {
+    display: none;
+}
+
+.loader {
+    display: inline !important;
+    border-radius: 10%;
+
+}
